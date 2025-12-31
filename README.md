@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as AI Engineer<br>🌱 I’m currently learning Machine Learning
+🔭 I’m currently working as AI Engineer and Backend Developer<br>🌱 I’m currently learning Machine Learning
 
 
 ## 🌐 Socials:
